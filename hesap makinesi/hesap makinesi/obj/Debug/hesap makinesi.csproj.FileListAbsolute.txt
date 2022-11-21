@@ -1,0 +1,7 @@
+D:\C#\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csprojAssemblyReference.cache
+D:\C#\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+D:\C#\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+D:\C#\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+D:\C#\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+D:\C#\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+D:\C#\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
